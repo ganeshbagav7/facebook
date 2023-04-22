@@ -1,0 +1,61 @@
+    
+    Working on
+
+
+     Varma
+
+
+
+    User Post ( User Side )
+
+
+
+
+
+
+
+    User Post Interaction 
+
+
+
+    common
+
+
+
+    DONE
+
+http://localhost:8080/remove-friend
+http://localhost:8080/search-user
+http://localhost:8080/show-comments
+http://localhost:8080/edit-post
+http://localhost:8080/show-friends
+http://localhost:8080/friend-request-result
+http://localhost:8080/delete-post
+http://localhost:8080/show-bookmark-post
+http://localhost:8080/show-friend-requests
+http://localhost:8080/add-friend
+http://localhost:8080/user-profile
+http://localhost:8080/user-self-profile ( BOTH ARE SAME SELF AND USER PROFILE )
+http://localhost:8080/add-pfp
+http://localhost:8080/delete-comment
+http://localhost:8080/remove-bookmark
+http://localhost:8080/undo-like
+http://localhost:8080/sign-up
+http://localhost:8080/log-in
+http://localhost:8080/forgot-password
+http://localhost:8080/reset-password
+http://localhost:8080/add-post 
+http://localhost:8080/like-post
+http://localhost:8080/comment-post
+http://localhost:8080/bookmark-post
+
+
+
+
+
+
+
+
+
+
+
